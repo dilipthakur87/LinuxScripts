@@ -2,11 +2,17 @@
 
 ### This script will return the following system informations: 
 > **Hostname Information**
+--------------------------
 > **Uptime & Load Of System**
+--------------------------
 > **Currently Logged In Users**
+--------------------------
 > **Memory Usage**
+--------------------------
 > **Disk Usage (File System)**
+--------------------------
 > **Top Memory-Consuming Processes**
+--------------------------
 
 #### To understand the commands used in the script, type the following command in the terminal :  
 ``` bash
