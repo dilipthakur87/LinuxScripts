@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 OLDCONF=$(dpkg -l|grep "^rc"|awk '{print $2}')
 CURKERNEL=$(uname -r|sed 's/-*[a-z]//g'|sed 's/-386//g')
